@@ -1,2 +1,2 @@
 # Chess
-We make a chess by using HTML
+We made a chess-Board by using HTML
